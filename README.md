@@ -4,7 +4,7 @@ Computer Science student at Boston University, interested in **security and syst
 
 ## Current Project:
 
-**[Active Directory Attack & Detection Lab](https://github.com/hojinkim006/homelab)**:
+**[Active Directory Attack & Detection Lab](https://github.com/hojinkim006/Active_Directory_Lab)**:
  simulated company running on a Proxmox home server, used to practice identity attacks and build detections in Splunk.
 
 - [x] Proxmox host with Tailscale remote access
