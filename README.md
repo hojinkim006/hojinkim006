@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey it's me, Hojin
 
-<!--
-**hojinkim006/hojinkim006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Boston University, interested in **security and systems/networking**!
 
-Here are some ideas to get you started:
+## In Progress...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Active Directory Attack & Detection Lab](https://github.com/hojinkim006/homelab)**:
+ simulated company running on a Proxmox home server, used to practice identity attacks and build detections in Splunk.
+
+- [x] Proxmox host with Tailscale remote access
+- [x] Windows Server 2025 VM (future domain controller)
+- [ ] Promoting DC01 and building out the domain
+- [ ] Logging with Sysmon + Splunk, attack simulations mapped to MITRE ATT&CK
+
+## Relevant coursework:
+- DSA
+- Operating Systems/Networking
+- Computer Systems
+- Probability & Statistics
+- Calc I & II
+- Linear Algebra
+
+## Tools covered in courses and/or projects and internships:
+- **Languages:** Python, Java, Bash, PowerShell 
+- **Systems:** Windows Server, Active Directory, Linux, Proxmox VE
+- **Networking & security:** Tailscale, Splunk
+- **Collaboration**: Microsoft 365, SharePoint, Teams
+
+## Contact
+
+- LinkedIn: [hojin-j-kim](https://www.linkedin.com/in/hojin-j-kim/)
+- Email: hojinkim@bu.edu
